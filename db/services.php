@@ -6,6 +6,7 @@ $services = array(
             'core_group_create_groups',
             'core_group_add_group_members',
             'core_user_get_users',
+            'core_group_get_group_members',
             'enrol_manual_enrol_users',
             'mod_quiz_get_user_attempts',
             'mod_quiz_get_quizzes_by_courses',
